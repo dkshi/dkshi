@@ -1,7 +1,7 @@
 ## Aleksandr Savosin
 ### Backend developer | (Golang / Python)
 
-### [CV](https://docs.google.com/document/d/1hlmCmwAgm3Kl0-gSywGvM9KKncmCAdzMp0sySlzgJ4I/edit?usp=sharing)
+### [CV](https://docs.google.com/document/d/1hlmCmwAgm3Kl0-gSywGvM9KKncmCAdzMp0sySlzgJ4I)
 </br>
 
 ### 📊 Backend Stack
