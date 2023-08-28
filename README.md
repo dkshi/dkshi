@@ -52,6 +52,7 @@
 </p>
 
 ### 🐶 Pet projects
+* [Desktop app Kruskal algorithm](https://github.com/dkshi/kruskal)
 * [Hephaestus: task managment tg bot](https://github.com/dkshi/hephaestus)
 * [Web-App for bank transaction control](https://github.com/dkshi/web-app-postgres)
 * [Hotel website with admin-panel](https://github.com/dkshi/nestjsHotel)
